@@ -1,17 +1,28 @@
-# 🌐 List of my websites that are being hosted
+# 🌐 My websites
+## Created while running through [C0D3](https://C0D3.com)
 ---
  
 <br/>
 
 ## 🖥️ Local websites:
-> ### 💡 [Lights-Off game](https://xeroling-c0d3js4c4.surge.sh)
 
-> ### ✅ [To-Do lists (Kanban)](https://xeroling-c0d3js4c4.surge.sh )
-> Works with any amount of lists but it is set to 4 in this example
+> ### ✅ [To-Do lists (Kanban)](https://xeroling-c0d3js4c5.surge.sh)
+> Add to-do items to various lists and manage them
+> 
+> (Works with any amount of lists but it is set to 4 lists in this example)
 
-> ### 💣 [Mine sweeper game](https://xeroling-c0d3js4c7.surge.sh)
+> ### 💣 [Mine sweeper](https://xeroling-c0d3js4c7.surge.sh) (Game)
+> The classic mine sweeper game but in HTML+CSS+JS
+>
 > Works with any grid size and bomb count but it is set to a constant number in this example
- 
+
+> ### 💡 [Lights-Off](https://xeroling-c0d3js4c4.surge.sh) (Game)
+> Try to turn off all the lights!
+> 
+> (Works with any grid size but it is set to a constant number in this example)
+
+> ### And more...
+
 <br/>
 
 ## 📡 Servers (end-to-end):
@@ -41,3 +52,5 @@
 
 > ### 🗄️ [Asset manager](https://xeroling-c0d3js5c4.freedomains.dev) (API only!)
 > Save files and manage them on the server
+
+> ### And more...
