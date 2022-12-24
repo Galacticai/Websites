@@ -1,4 +1,4 @@
-# 🌐 My websites
+# 🌐 Websites made by [Galacticai](https://github.com/Galacticai)
 ## Created while running through [C0D3](https://C0D3.com)
 ---
  
@@ -14,9 +14,16 @@
 > ### 💣 [Mine sweeper](https://xeroling-c0d3js4c7.surge.sh) (Game)
 > The classic mine sweeper game but in HTML+CSS+JS
 >
-> Works with any grid size and bomb count but it is set to a constant number in this example
+> (Works with any grid size and bomb count but it is set to a constant number in this example)
+
+> ### ⏹️ [Select grid](https://xeroling-c0d3js4c6.surge.sh)
+> Grid selection with mouse
+> 
+> (Works with any grid size but it is set to a constant number in this example)
 
 > ### 💡 [Lights-Off](https://xeroling-c0d3js4c4.surge.sh) (Game)
+> ⚠️ Currently unavailable due to hosting issues 
+>
 > Try to turn off all the lights!
 > 
 > (Works with any grid size but it is set to a constant number in this example)
