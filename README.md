@@ -34,6 +34,9 @@
 
 ## 📡 Servers (end-to-end):
 
+> ### ✅ [Kanban (Multiple interactive todo lists)](https://galacticai-js6c3.freedomains.dev/Kanban) (React Native)
+> Beautiful todo lists made in React Native with support for adding, removing, moving items between boards, and also editing items… All without collecting any of your personal data since they get saved on your machine with an easy button to delete items or whole board contents. In addition to nice animations to top it off.
+
 > ### 📸 [Camera with Gallery](https://xeroling-c0d3js5c8.freedomains.dev) (Frontend + API)
 > Camera app with a gallery containing all the images taken by users
 
